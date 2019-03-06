@@ -1,7 +1,8 @@
-package com.example.edgarsc
+package com.example.edgarsc.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.edgarsc.R
 
 class MainActivity : AppCompatActivity() {
 
